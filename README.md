@@ -5,7 +5,7 @@ Example:
 
 Welcome to the Prompt. Type help or ? to list commands.
 
-(logbot) query what is the error ? 
+(logbot) query what is the error ?
 _The error is "Failed to subscribe to topic on 10.64.110.145/10.64.110.145:6650" and "Client is not authorized to subscribe"._
 
 (logbot) query why was the client not authorized ?
